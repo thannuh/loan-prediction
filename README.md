@@ -14,4 +14,9 @@
   - Support Vector Machines
   - Logistic Regression
 ### Model Evaluation using test set
+### Report the train data with evaluvation metrics
+### Improve accuracy
+  - Altering the feature set
+  - Ensemble methods
 ### Final Report
+### Conclusion
